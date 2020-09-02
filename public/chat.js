@@ -1,6 +1,6 @@
 "use strict";
 
-const socket = io("http://10.114.32.7/app/");
+const socket = io("http://10.114.32.7/");
 const item = document.createElement("li");
 
 //joining chat room
